@@ -1,0 +1,2 @@
+Falta el código para encerar los checkbox(desactivar checkbox)
+Calificación: 2.8/3.0
